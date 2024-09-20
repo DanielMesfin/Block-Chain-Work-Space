@@ -27,6 +27,7 @@ Once data is added to the blockchain, it is almost impossible to alter or delete
 Blockchain uses consensus algorithms like **Proof of Work (PoW)** or **Proof of Stake (PoS)** to validate transactions and ensure agreement across the network.
 
 - Learn more about PoW: [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+- Deployemt package: [HardHat](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify)
 - Learn more about PoS: [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
 ### 5. Cryptography
